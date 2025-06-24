@@ -1,46 +1,69 @@
-# Hi 👋, I'm Muhammad Haris
+<h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
 
-🎓 Software Engineering Undergraduate at FAST NUCES (Class of '26)  
-💻 Full Stack Web Developer | Tech Enthusiast  
+<h3 align="center">Full Stack Developer | Software Engineering Undergraduate (FAST NUCES - Class of '26)</h3>
 
-Building scalable and interactive web platforms that solve real-world problems.
-
----
-
-🌱 I’m currently learning: Docker, Kubernetes, and advanced DevOps practices  
-👨‍💻 All of my projects are available here on GitHub  
-💬 Ask me about: MERN Stack, React, Node.js, Java, Software Design, and SQA  
-📧 How to reach me: haris54955@gmail.com  
-📄 Know about my experiences: [LinkedIn](https://linkedin.com/in/muhammad-haris-a81a862a1)  
-⚡ Fun fact: I turn coffee into code—but occasionally into bugs too! 😅  
+<p align="center">Building scalable web platforms and turning ideas into reality with code.</p>
 
 ---
 
-## 🚀 Tech Stack
+### 🌱 Currently Learning
 
-**Languages**  
-`JavaScript` `Java` `C++` `C#` `Python` `SQL`
-
-**Frontend**  
-`React.js` `JavaFX` `Figma`
-
-**Backend & Databases**  
-`Node.js` `Express.js` `.NET Framework` `MongoDB` `SQL`
-
-**Tools & Platforms**  
-`Git` `Docker` `Kubernetes` `Jenkins` `Postman` `VSCode`
+<p align="center">Docker • Kubernetes • DevOps • Advanced React</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📂 Projects & Profiles
 
-![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Haris-27&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Haris-27&layout=compact&theme=radical)
+<p align="center">
+  👨‍💻 All my projects are available at <a href="https://github.com/M-Haris-27">github.com/M-Haris-27</a> <br>
+  📄 Know about my experience at <a href="https://linkedin.com/in/muhammad-haris-a81a862a1">LinkedIn</a> <br>
+  📬 Reach me at <a href="mailto:haris54955@gmail.com">haris54955@gmail.com</a>
+</p>
 
 ---
 
-## 📢 Contact Me
+### 💬 Ask Me About
 
-📧 **Email:** haris54955@gmail.com  
-🔗 **LinkedIn:** [muhammad-haris-a81a862a1](https://linkedin.com/in/muhammad-haris-a81a862a1)  
-🐱 **GitHub:** [M-Haris-27](https://github.com/M-Haris-27)
+<p align="center">
+  MERN Stack • Java • React • Express.js • Software Quality • Project Management
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+<p align="center">
+  I turn ☕ into 💻... but sometimes into 🐞!
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,py,html,css,react,nodejs,express,mongodb,dotnet,sql,figma,docker,kubernetes,git,postman,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Haris-27&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />  
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Haris-27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Haris-27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📢 Contact Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-haris-a81a862a1"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:haris54955@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/M-Haris-27"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
