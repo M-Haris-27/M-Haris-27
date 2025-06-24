@@ -1,59 +1,73 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
-
-<h3 align="center">Full Stack Developer | Software Engineering Undergraduate (FAST NUCES - Class of '26)</h3>
-
-<p align="center">Building scalable web platforms and turning ideas into reality with code.</p>
-
----
-
-### 🌱 Currently Learning
-
-<p align="center">Docker • Kubernetes • DevOps • Advanced React</p>
-
----
-
-### 📂 Projects & Profiles
+<h1 align="center">Hi, I'm Muhammad Haris 👋</h1>
 
 <p align="center">
-  👨‍💻 All my projects are available at <a href="https://github.com/M-Haris-27">github.com/M-Haris-27</a> <br>
-  📄 Know about my experience at <a href="https://linkedin.com/in/muhammad-haris-a81a862a1">LinkedIn</a> <br>
-  📬 Reach me at <a href="mailto:haris54955@gmail.com">haris54955@gmail.com</a>
+  🚀 Full Stack Web Developer | 💡 Software Engineering Student at FAST NUCES
+</p>
+
+<p align="center">
+  <a href="mailto:haris54955@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammad-haris-a81a862a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/M-Haris-27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💬 Ask Me About
+### 🧠 About Me
+
+I'm a passionate Full Stack Developer with a strong foundation in building scalable and modern web applications using cutting-edge technologies. I enjoy solving complex problems and crafting user-focused experiences.
+
+---
+
+### 💼 Tech Stack
 
 <p align="center">
-  MERN Stack • Java • React • Express.js • Software Quality • Project Management
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring,cpp,cs,py,dotnet,html,css,js,git,docker,kubernetes,postman,figma,vscode&perline=9" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 📌 Notable Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,py,html,css,react,nodejs,express,mongodb,dotnet,figma,docker,kubernetes,git,postman,vscode,linux,tailwind" alt="Tech Stack" />
-</p>
+- **EduVerse**  
+  MERN | Stripe | Three.js | Whisper API  
+  A video-based tutoring platform with real-time chat, AI-powered transcripts, and secure payments.
+
+- **Freelancer/Client Platform**  
+  ReactJS | NodeJS | MongoDB  
+  Role-based project management app for clients, freelancers, and admins.
+
+- **Clinic Appointment System**  
+  ReactJS | NodeJS | MongoDB  
+  Appointment and patient management dashboard for clinics.
+
+- **Hotel Management System**  
+  Spring Boot | ReactJS | SQL  
+  A robust system for hotel booking, role management, and admin control.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Haris-27&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Haris-27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Haris-27&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Haris-27&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
 
-### 📢 Contact Me
+### 📫 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-haris-a81a862a1"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:haris54955@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/M-Haris-27"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="mailto:haris54955@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"/></a> &nbsp;
+  <a href="tel:+923165169898"><img src="https://img.shields.io/badge/Call-Me-green?style=flat&logo=phone"/></a> &nbsp;
+  <a href="https://linkedin.com/in/muhammad-haris-a81a862a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
 </p>
+
+---
+
+<details>
+  <summary>📚 Certifications</summary>
+  <ul>
+    <li><strong>The Web Developer Bootcamp</strong> – Colt Steele (Udemy)</li>
+  </ul>
+</details>
