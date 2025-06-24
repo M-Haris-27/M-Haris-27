@@ -30,18 +30,10 @@
 
 ---
 
-### ⚡ Fun Fact
-
-<p align="center">
-  I turn ☕ into 💻... but sometimes into 🐞!
-</p>
-
----
-
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,py,html,css,react,nodejs,express,mongodb,dotnet,sql,figma,docker,kubernetes,git,postman,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,py,html,css,react,nodejs,express,mongodb,dotnet,figma,docker,kubernetes,git,postman,vscode,linux,tailwind" alt="Tech Stack" />
 </p>
 
 ---
@@ -49,9 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Haris-27&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />  
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Haris-27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Haris-27&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Haris-27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
