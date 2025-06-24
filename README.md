@@ -4,12 +4,6 @@
   🚀 Full Stack Web Developer | 💡 Software Engineering Student at FAST NUCES
 </p>
 
-<p align="center">
-  <a href="mailto:haris54955@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/muhammad-haris-a81a862a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/M-Haris-27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -21,28 +15,8 @@ I'm a passionate Full Stack Developer with a strong foundation in building scala
 ### 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring,cpp,cs,py,dotnet,html,css,js,git,docker,kubernetes,postman,figma,vscode&perline=9" />
+ <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,py,html,css,react,nodejs,express,mongodb,dotnet,figma,docker,kubernetes,git,postman,vscode,linux,tailwind&perline=9" />
 </p>
-
----
-
-### 📌 Notable Projects
-
-- **EduVerse**  
-  MERN | Stripe | Three.js | Whisper API  
-  A video-based tutoring platform with real-time chat, AI-powered transcripts, and secure payments.
-
-- **Freelancer/Client Platform**  
-  ReactJS | NodeJS | MongoDB  
-  Role-based project management app for clients, freelancers, and admins.
-
-- **Clinic Appointment System**  
-  ReactJS | NodeJS | MongoDB  
-  Appointment and patient management dashboard for clinics.
-
-- **Hotel Management System**  
-  Spring Boot | ReactJS | SQL  
-  A robust system for hotel booking, role management, and admin control.
 
 ---
 
@@ -65,9 +39,10 @@ I'm a passionate Full Stack Developer with a strong foundation in building scala
 
 ---
 
-<details>
-  <summary>📚 Certifications</summary>
-  <ul>
-    <li><strong>The Web Developer Bootcamp</strong> – Colt Steele (Udemy)</li>
-  </ul>
-</details>
+### 📚 Certifications
+  
+<p align="center">
+
+    The Web Developer Bootcamp – Colt Steele (Udemy)
+    
+</p>
