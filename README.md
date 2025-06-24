@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer with a strong foundation in building scala
 ### 💼 Tech Stack
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,py,html,css,react,nodejs,express,mongodb,dotnet,figma,docker,kubernetes,git,postman,vscode,linux,tailwind&perline=9" />
+ <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,py,html,css,react,nodejs,express,mongodb,dotnet,figma,docker,kubernetes,git,postman,vscode,linux,tailwind&perline=10" />
 </p>
 
 ---
@@ -41,8 +41,4 @@ I'm a passionate Full Stack Developer with a strong foundation in building scala
 
 ### 📚 Certifications
   
-<p align="center">
-
-    The Web Developer Bootcamp – Colt Steele (Udemy)
-    
-</p>
+The Web Developer Bootcamp - Udemy
